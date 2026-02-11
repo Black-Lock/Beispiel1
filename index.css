@@ -57,7 +57,7 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(image/coding.jpg) no-repeat;
+  background: url(image/projects-image/coding.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -320,3 +320,4 @@ section {
     font-size: 10px;
   }
 }
+
