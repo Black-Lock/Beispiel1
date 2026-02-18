@@ -246,7 +246,7 @@ section {
 }
 /* here there is a problem of fitting the paragraph inside box */
 .contact-card .info p {
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .footer {
@@ -320,4 +320,5 @@ section {
     font-size: 10px;
   }
 }
+
 
